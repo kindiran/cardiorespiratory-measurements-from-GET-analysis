@@ -1,3 +1,6 @@
-# cardiorespiratory-measurements-from-GET-analysis
-Dataset used for this analysis:
-https://physionet.org/content/actes-cycloergometer-exercise/1.0.0/
+# Python hackathon - Aug 2024
+
+# Dataset used for this analysis: 
+
+* The dataset is an ensemble of cardiorespiratory measurements acquired during 18 cycloergometer maximal graded exercise tests performed.
+
